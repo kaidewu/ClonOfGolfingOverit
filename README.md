@@ -6,3 +6,5 @@ Y'all can follow him and watch his games in:
       Twitter: https://twitter.com/5ro4
       Twitch: https://www.twitch.tv/5ro4
       
+Note:
+      This project of unity are not complete. I would be updating when I can.
